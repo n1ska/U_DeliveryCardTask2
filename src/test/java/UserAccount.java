@@ -1,4 +1,5 @@
 import lombok.Value;
+
 @Value
 public class UserAccount {
     String login;
